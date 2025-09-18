@@ -5,9 +5,6 @@ import java.util.Scanner;
 
 public class Main {
 
-	/**
-	 * @param args
-	 */
 	public static void main(String[] args) {
 		
 		try {
@@ -25,5 +22,4 @@ public class Main {
 			e.printStackTrace();
 		}
 	}
-
 }
